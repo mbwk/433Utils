@@ -12,3 +12,4 @@ RFSniffer: RCSwitch.o RFSniffer.o
 
 clean:
 	$(RM) *.o send codesend servo RFSniffer
+
